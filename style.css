@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+h1 {
+    color: green;
+    text-transform: uppercase;
+}
+p {
+    text-indent: 10%;
+    text-align: justify;
+}
+a {
+    text-decoration: none;
+}
